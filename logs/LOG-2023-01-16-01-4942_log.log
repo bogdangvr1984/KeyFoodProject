@@ -1,0 +1,14 @@
+01:49:42.047 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+01:49:42.214 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+01:49:43.417 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+01:49:43.484 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+01:49:43.529 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+01:49:43.589 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+01:49:43.643 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+01:49:43.688 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+01:49:43.742 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+01:49:43.798 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+01:49:49.802 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+01:49:49.856 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+01:49:49.904 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+01:49:49.992 [main] INFO  utils.Log - calling method <sendEnter>

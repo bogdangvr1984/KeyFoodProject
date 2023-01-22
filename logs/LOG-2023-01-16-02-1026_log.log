@@ -1,0 +1,20 @@
+02:10:26.407 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+02:10:26.576 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+02:10:27.761 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+02:10:27.830 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+02:10:27.876 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+02:10:27.932 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+02:10:27.983 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+02:10:28.030 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+02:10:28.087 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+02:10:28.145 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+02:10:29.497 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+02:10:29.549 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+02:10:29.597 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+02:10:29.669 [main] INFO  utils.Log - calling method <sendEnter>
+02:10:30.822 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='add-to-cart']
+02:10:30.885 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" name="add-to-cart" value="270" class="single_add_to_cart_button button alt">Add to cart</button>
+02:10:31.589 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: CART
+02:10:31.697 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/cart-2/">Cart</a>
+02:10:32.226 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //i[@class='klbth-icon-plus']
+02:10:32.290 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>

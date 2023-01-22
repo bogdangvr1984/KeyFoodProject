@@ -1,0 +1,16 @@
+02:19:37.097 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:19:37.245 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:19:37.867 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/']
+02:19:37.935 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/">Read More</a>
+02:19:38.444 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:19:38.532 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:19:39.041 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/03/the-problem-with-typefaces-on-the-web/']
+02:19:39.107 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/03/the-problem-with-typefaces-on-the-web/">Read More</a>
+02:19:39.633 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:19:39.723 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:19:40.257 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/02/english-breakfast-tea-with-tasty-donut-desserts/']
+02:19:40.318 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/02/english-breakfast-tea-with-tasty-donut-desserts/">Read More</a>
+02:19:40.819 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:19:40.912 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:19:41.409 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/01/on-the-other-hand-we-provide-denounce-with-righteous/']
+02:19:41.490 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/01/on-the-other-hand-we-provide-denounce-with-righteous/">Read More</a>

@@ -1,0 +1,15 @@
+01:59:30.212 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+01:59:30.373 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+01:59:31.079 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/']
+01:59:31.148 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/">Read More</a>
+01:59:31.693 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: comment
+01:59:31.746 [main] INFO  utils.Log - called clear on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+01:59:31.784 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+01:59:31.854 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: author
+01:59:31.903 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+01:59:31.949 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+01:59:32.006 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: email
+01:59:32.050 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+01:59:32.095 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+01:59:32.160 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: submit
+01:59:32.215 [main] INFO  utils.Log - called method <Click()> on element :<input name="submit" type="submit" id="submit" class="submit" value="Post Comment">

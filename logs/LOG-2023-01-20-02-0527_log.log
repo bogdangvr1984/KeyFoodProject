@@ -1,0 +1,60 @@
+02:05:27.704 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:05:27.849 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:05:28.487 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/']
+02:05:28.565 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/03/but-i-must-explain-to-you-how-all-this-mistaken-idea/">Read More</a>
+02:05:29.119 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: comment
+02:05:29.176 [main] INFO  utils.Log - called clear on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:29.213 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:29.292 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: author
+02:05:29.339 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:29.384 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:29.447 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: email
+02:05:29.499 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:29.542 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:29.600 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: submit
+02:05:29.653 [main] INFO  utils.Log - called method <Click()> on element :<input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
+02:05:30.700 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:05:30.784 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:05:31.300 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/03/the-problem-with-typefaces-on-the-web/']
+02:05:31.367 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/03/the-problem-with-typefaces-on-the-web/">Read More</a>
+02:05:31.902 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: comment
+02:05:31.947 [main] INFO  utils.Log - called clear on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:31.982 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:32.053 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: author
+02:05:32.095 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:32.140 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:32.186 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: email
+02:05:32.228 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:32.269 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:32.327 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: submit
+02:05:32.376 [main] INFO  utils.Log - called method <Click()> on element :<input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
+02:05:33.201 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:05:33.282 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:05:33.814 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/02/english-breakfast-tea-with-tasty-donut-desserts/']
+02:05:33.878 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/02/english-breakfast-tea-with-tasty-donut-desserts/">Read More</a>
+02:05:34.383 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: comment
+02:05:34.428 [main] INFO  utils.Log - called clear on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:34.465 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:34.542 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: author
+02:05:34.583 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:34.627 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:34.683 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: email
+02:05:34.740 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:34.780 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:34.842 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: submit
+02:05:34.891 [main] INFO  utils.Log - called method <Click()> on element :<input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
+02:05:35.779 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:05:35.860 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>
+02:05:36.396 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: //a[@class='button'][@href='https://keyfood.ro/2021/05/01/on-the-other-hand-we-provide-denounce-with-righteous/']
+02:05:36.454 [main] INFO  utils.Log - called method <Click()> on element :<a class="button" href="https://keyfood.ro/2021/05/01/on-the-other-hand-we-provide-denounce-with-righteous/">Read More</a>
+02:05:36.984 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: comment
+02:05:37.028 [main] INFO  utils.Log - called clear on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:37.063 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+02:05:37.132 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: author
+02:05:37.177 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:37.241 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required">
+02:05:37.292 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: email
+02:05:37.330 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:37.369 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required">
+02:05:37.430 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: submit
+02:05:37.476 [main] INFO  utils.Log - called method <Click()> on element :<input name="submit" type="submit" id="submit" class="submit" value="Post Comment">

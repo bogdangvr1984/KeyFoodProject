@@ -1,0 +1,70 @@
+21:35:36.806 [TestNG-tests-1] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:36.817 [TestNG-tests-1] INFO  utils.Log - Started test case :cannotOrderWithoutBillingAddressTest
+21:35:36.818 [TestNG-tests-1] INFO  utils.Log - Start time :2023.01.05.21.35.36
+21:35:36.818 [TestNG-tests-1] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:36.820 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+21:35:36.942 [TestNG-tests-1] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:35:37.039 [TestNG-tests-1] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:35:37.168 [TestNG-tests-1] INFO  utils.Log - calling method <sendEnter>
+21:35:39.500 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:39.502 [TestNG-tests-2] INFO  utils.Log - Started test case :validLoginTest
+21:35:39.502 [TestNG-tests-2] INFO  utils.Log - Start time :2023.01.05.21.35.39
+21:35:39.502 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:39.503 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+21:35:39.559 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:35:39.677 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:35:39.752 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:35:39.854 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:35:39.893 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:35:39.958 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:35:39.992 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:35:40.068 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:35:40.102 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='add-to-cart']
+21:35:40.170 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<button type="submit" name="add-to-cart" value="312" class="single_add_to_cart_button button alt">Add to cart</button>
+21:35:40.208 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/">My account</a>
+21:35:40.878 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+21:35:41.004 [TestNG-tests-2] INFO  utils.Log - called clear on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+21:35:41.042 [TestNG-tests-2] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" style="">
+21:35:41.091 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+21:35:41.124 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: CART
+21:35:41.154 [TestNG-tests-2] INFO  utils.Log - called clear on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+21:35:41.188 [TestNG-tests-2] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" style="">
+21:35:41.233 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+21:35:41.296 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+21:35:41.324 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/cart-2/">Cart</a>
+21:35:42.106 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Proceed to checkout
+21:35:42.294 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Log out
+21:35:42.307 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/checkout-2/" class="checkout-button button alt wc-forward">
+	Proceed to checkout</a>
+21:35:42.689 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/customer-logout/?_wpnonce=ddf3b445cb">Log out</a>
+21:35:43.107 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: terms
+21:35:43.185 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<input type="checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" name="terms" id="terms">
+21:35:43.433 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: terms
+21:35:43.470 [TestNG-tests-1] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: place_order
+21:35:43.533 [TestNG-tests-1] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="button alt" name="woocommerce_checkout_place_order" id="place_order" value="Place order" data-value="Place order">Place order</button>
+21:35:43.867 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:43.868 [TestNG-tests-2] INFO  utils.Log - Passed test case :validLoginTest
+21:35:43.868 [TestNG-tests-2] INFO  utils.Log - End time :2023.01.05.21.35.43
+21:35:43.868 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:43.873 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:43.873 [TestNG-tests-2] INFO  utils.Log - Started test case :invalidLoginTest
+21:35:43.874 [TestNG-tests-2] INFO  utils.Log - Start time :2023.01.05.21.35.43
+21:35:43.874 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:43.876 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: My account
+21:35:44.004 [TestNG-tests-1] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:44.005 [TestNG-tests-1] INFO  utils.Log - Passed test case :cannotOrderWithoutBillingAddressTest
+21:35:44.005 [TestNG-tests-1] INFO  utils.Log - End time :2023.01.05.21.35.44
+21:35:44.005 [TestNG-tests-1] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:44.187 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/my-account-2/" aria-current="page">My account</a>
+21:35:44.821 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: username
+21:35:44.936 [TestNG-tests-2] INFO  utils.Log - called clear on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">
+21:35:44.956 [TestNG-tests-2] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" style="">
+21:35:44.991 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: password
+21:35:45.036 [TestNG-tests-2] INFO  utils.Log - called clear on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password">
+21:35:45.056 [TestNG-tests-2] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" style="">
+21:35:45.078 [TestNG-tests-2] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='login']
+21:35:45.139 [TestNG-tests-2] INFO  utils.Log - called method <Click()> on element :<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+21:35:45.829 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++
+21:35:45.830 [TestNG-tests-2] INFO  utils.Log - Passed test case :invalidLoginTest
+21:35:45.830 [TestNG-tests-2] INFO  utils.Log - End time :2023.01.05.21.35.45
+21:35:45.831 [TestNG-tests-2] INFO  utils.Log - +++++++++++++++++++++++++++++++++

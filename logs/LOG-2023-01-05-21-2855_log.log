@@ -1,0 +1,21 @@
+21:28:55.682 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+21:28:55.794 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:28:55.848 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+21:28:55.982 [main] INFO  utils.Log - calling method <sendEnter>
+21:28:58.484 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:28:58.559 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:28:58.610 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:28:58.677 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:28:58.702 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:28:58.760 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:28:58.792 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+21:28:58.846 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+21:28:58.878 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='add-to-cart']
+21:28:58.945 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" name="add-to-cart" value="312" class="single_add_to_cart_button button alt">Add to cart</button>
+21:28:59.730 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: CART
+21:28:59.851 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/cart-2/">Cart</a>
+21:29:00.617 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: Proceed to checkout
+21:29:00.744 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/checkout-2/" class="checkout-button button alt wc-forward">
+	Proceed to checkout</a>
+21:29:01.732 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.id: terms
+21:29:01.911 [main] INFO  utils.Log - called method <Click()> on element :<input type="checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" name="terms" id="terms">

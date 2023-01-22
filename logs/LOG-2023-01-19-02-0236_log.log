@@ -1,0 +1,2 @@
+02:02:36.931 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.linkText: BLOG
+02:02:37.091 [main] INFO  utils.Log - called method <Click()> on element :<a href="https://keyfood.ro/blog/">Blog</a>

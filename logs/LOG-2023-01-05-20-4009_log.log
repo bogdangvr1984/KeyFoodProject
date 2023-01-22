@@ -1,0 +1,14 @@
+20:40:09.294 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+20:40:09.406 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:40:09.473 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:40:09.606 [main] INFO  utils.Log - calling method <sendEnter>
+20:40:12.121 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:40:12.197 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:40:12.254 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:40:12.321 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:40:12.345 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:40:12.397 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:40:12.426 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:40:12.479 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:40:12.508 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.cssSelector: button[name='add-to-cart']
+20:40:12.569 [main] INFO  utils.Log - called method <Click()> on element :<button type="submit" name="add-to-cart" value="312" class="single_add_to_cart_button button alt">Add to cart</button>

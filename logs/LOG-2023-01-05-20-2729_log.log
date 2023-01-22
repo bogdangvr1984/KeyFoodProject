@@ -1,0 +1,12 @@
+20:27:29.632 [main] INFO  utils.Log - Called method <waitForElementToBeVisible> on element with locator :By.id: dgwt-wcas-search-input-1
+20:27:29.743 [main] INFO  utils.Log - called clear on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:27:29.800 [main] INFO  utils.Log - called sendKeys on method<sendKeys> on element <input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="Search for products..." autocomplete="off">
+20:27:29.935 [main] INFO  utils.Log - calling method <sendEnter>
+20:27:32.437 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:27:32.514 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:27:32.571 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:27:32.641 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:27:32.667 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:27:32.728 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
+20:27:32.759 [main] INFO  utils.Log - Called method <waitForElementToBeClickable> on element with locator :By.xpath: (//i[@class='klbth-icon-plus'])[1]
+20:27:32.815 [main] INFO  utils.Log - called method <Click()> on element :<i class="klbth-icon-plus"></i>
